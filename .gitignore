@@ -1,10 +1,26 @@
-# Jekyll
+# Ignore the contents of the _site directory and other cache directories
 _site/
-.jekyll-cache/
-.jekyll-metadata
 .sass-cache/
-vendor/
+
+# Ignore the directory for local files during development
+local/
+
+# Ignore the Gemfile that is generated
 Gemfile.lock
+
+# Ignore files created by npm
+node_modules
+package-lock.json
+
+# Ignore the vendor file at root level and bundle for alternative installation
+/vendor/
+.bundle/
+
+# Ignore folders related to IDEs
+.vscode/
+
+# Ignore files created by MacOS
+.DS_Store
 
 # Resume: source stays private; PDF is held back until the new version is ready.
 # To publish the PDF, delete the files/resume.pdf line below.
@@ -18,5 +34,3 @@ files/resume.pdf
 *.fls
 *.fdb_latexmk
 *.synctex.gz
-
-.DS_Store

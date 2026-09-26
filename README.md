@@ -1,31 +1,21 @@
 # c0dypeng.github.io
 
-Personal website, built with Jekyll and hosted on GitHub Pages.
+Personal website, built on the [Academic Pages](https://github.com/academicpages/academicpages.github.io) Jekyll template (MIT, see `LICENSE`) and hosted on GitHub Pages.
 
-## Layout
+## Where things are
 
-- `index.md` — the home page (About, Education, Experience, Projects, Honors). Plain Markdown, edit freely.
-- `_config.yml` — site title, contact links, and the YouTube URL in the nav.
-- `_layouts/`, `_includes/` — page templates (header, footer).
-- `assets/css/style.css` — the only stylesheet.
-- `files/resume.pdf` — the public resume. Currently gitignored (see `.gitignore`); `resume.tex` is always ignored so the source stays private.
+- `_pages/about.md` — the home page. One narrative About; plain Markdown.
+- `_pages/music.md` — the Music page (YouTube uploads embed).
+- `_pages/cv.md` — the CV page.
+- `_config.yml` — site name, sidebar (photo, bio line, location, links). Academic links such as ORCID are commented out; uncomment to show them.
+- `_data/navigation.yml` — top nav. Only Music and CV are enabled; Publications, Talks, Teaching, Portfolio and Blog Posts are commented out.
+- `images/profile.jpg` — sidebar photo. Overwrite to change it.
+- `_publications/`, `_talks/`, `_teaching/`, `_portfolio/`, `_posts/` — empty collections, ready when needed.
+- `files/resume.pdf` — the public resume. Currently gitignored; `resume.tex` is always ignored so the source stays private.
 
 ## Deploy
 
-1. Create a GitHub repository named exactly `c0dypeng.github.io`.
-2. Push this folder to its `main` branch:
-
-   ```sh
-   git init
-   git add .
-   git commit -m "Initial site"
-   git branch -M main
-   git remote add origin git@github.com:c0dypeng/c0dypeng.github.io.git
-   git push -u origin main
-   ```
-
-3. On GitHub, open Settings → Pages and make sure the source is "Deploy from a branch", branch `main`, folder `/ (root)`.
-4. The site appears at https://c0dypeng.github.io within a minute or two. Every later push rebuilds it.
+Push to `main`. GitHub Pages builds the site automatically; it appears at https://c0dypeng.github.io within a minute or two.
 
 ## Preview locally (optional)
 
@@ -33,7 +23,7 @@ Needs Ruby 3.x (e.g. `brew install ruby`).
 
 ```sh
 bundle install
-bundle exec jekyll serve
+bundle exec jekyll serve -l -H localhost
 ```
 
 Then open http://localhost:4000.

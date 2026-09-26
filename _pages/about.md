@@ -1,9 +1,11 @@
 ---
-layout: home
-title: About
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
-
-# About
 
 I'm Chi-Jen Peng, and most people call me Cody. I'm a master's student in Information Management at National Taiwan University, where I also did my bachelor's degree. Right now my work is about making large language models controllable and safe at inference time. The project I'm building for that is:
 
@@ -15,6 +17,6 @@ I also like shipping real products. I co-founded [Kardomo](https://kardomo.com),
 
 At NTU I've been a teaching assistant for Programming Design (2024) and Data Analysis and Machine Learning with Python (2025).
 
-My hobbies are music and going to concerts. My taste lives mostly in pop punk, metalcore, melodic hardcore, and djent, and lately I've been really into After The Burial, Counterparts, and Thornhill. I also play guitar and sing; you can find my stuff on [YouTube](https://www.youtube.com/@thisisflojo).
+My hobbies are music and going to concerts. My taste lives mostly in pop punk, metalcore, melodic hardcore, and djent, and lately I've been really into After The Burial, Counterparts, and Thornhill. I also play guitar and sing; you can find my stuff on the [Music](/music/) page and on [YouTube](https://www.youtube.com/@thisisflojo).
 
 If you want to reach me for any reason, email is the best way: [c0dyp3n6@ntu.im](mailto:c0dyp3n6@ntu.im). I'm also on [GitHub](https://github.com/c0dypeng) and [LinkedIn](https://www.linkedin.com/in/c0dypeng).
