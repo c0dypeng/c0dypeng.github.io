@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Information Management, National Taiwan University, Sep 2025 – present
+  * Advisor: [Prof. Chih-Ping Wei](https://www.linkedin.com/in/chih-ping-wei-10924a17b/)
   * Selected coursework: Cloud Native Application Development, Generative Artificial Intelligence Safety
 * B.S. in Information Management, National Taiwan University, Sep 2021 – Jun 2025
   * GPA: 3.74 / 4.3
@@ -40,11 +41,6 @@ Work experience
   * Mentor: [Chiuhan Hsiao](https://homepage.citi.sinica.edu.tw/pages/chiuhanhsiao/index_zh.html). Clinical AI & medical NLP
   * Built a medical chatbot with retrieval-augmented generation, grounded in clinical knowledge bases
   * Collaborated with Taichung Veterans General Hospital to define use cases and validate outputs against expert benchmarks
-
-* Jul 2024 – Sep 2024: Research Intern, Business Intelligence Lab, NTU Information Management
-  * Mentor: Prof. Chih-Ping Wei. Machine learning & marketing analytics
-  * Built neural network models (MLP, ResNet) for brand endorser selection
-  * Improved model performance through architecture tuning and feature engineering
 
 Teaching
 ======

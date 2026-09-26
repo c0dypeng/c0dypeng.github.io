@@ -11,9 +11,9 @@ Hello, I'm Chi-Jen Peng.
 
 I am a master's student in Information Management at National Taiwan University.
 
-I like music and going to concerts: pop punk, metalcore, melodic hardcore, and djent. Lately it's been After The Burial, Counterparts, and Thornhill.
+I like pop punk, metalcore, melodic hardcore, and djent. Lately it's been After The Burial, Counterparts, and Thornhill.
 
-I play guitar and sing as Flojo. See [Music](/music/).
+I play guitar and sing. See [Music](/music/).
 
 My professional skills include full-stack web development, LLM and RAG systems, and cloud-native application development.
 
@@ -22,22 +22,19 @@ My [CV](/cv/).
 Education
 ======
 
-- M.S. in Information Management — National Taiwan University (Sep 2025–present)
+- M.S. in Information Management — National Taiwan University (Sep 2025–present)<br>Advisor: [Prof. Chih-Ping Wei](https://www.linkedin.com/in/chih-ping-wei-10924a17b/)
 - B.S. in Information Management — National Taiwan University (Sep 2021–Jun 2025)
 
 Experience
 ======
 
-Full-time experiences
-
 - Co-Founder & Chief Information Officer — [Kardomo, Inc.](https://kardomo.com) (Oct 2024–Jan 2026)
 - Summer Research Intern — Academia Sinica, Institute of Information Science (Jun 2025–Aug 2025)<br>Mentor: [Li Su](https://homepage.iis.sinica.edu.tw/pages/lisu/index_en.html)
 - Research Intern — Academia Sinica, Research Center for Information Technology Innovation (Jul 2024–Jun 2025)<br>Mentor: [Chiuhan Hsiao](https://homepage.citi.sinica.edu.tw/pages/chiuhanhsiao/index_zh.html)
-- Research Intern — National Taiwan University, Business Intelligence Lab (Jul 2024–Sep 2024)<br>Mentor: Prof. Chih-Ping Wei
-
-Part-time & volunteer work
-
 - Freelance Software Engineer (Sep 2025–present)
+
+Teaching
+
 - Teaching Assistant — National Taiwan University
   - Data Analysis and Machine Learning with Python (2025)
   - Programming Design (2024)
