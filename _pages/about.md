@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Chi-Jen Peng (Cody).
+Hello, I'm Chi-Jen Peng.
 
 I am a master's student in Information Management at National Taiwan University.
 
