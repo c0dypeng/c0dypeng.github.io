@@ -9,7 +9,7 @@ Hello, I'm Chi-Jen Peng. Most people call me Cody.
 
 I am a master's student in Information Management at National Taiwan University.
 
-I like music, playing the drums, and building products from scratch.
+I like music, playing the guitar and singing, and building products from scratch.
 
 My professional skills include full-stack web development, LLM and RAG systems, and cloud-native application development.
 
