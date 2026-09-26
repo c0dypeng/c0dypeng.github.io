@@ -1,0 +1,22 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+vendor/
+Gemfile.lock
+
+# Resume: source stays private; PDF is held back until the new version is ready.
+# To publish the PDF, delete the files/resume.pdf line below.
+resume.tex
+files/resume.pdf
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+.DS_Store

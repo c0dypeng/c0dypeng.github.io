@@ -1,0 +1,35 @@
+# Site settings
+title: Chi-Jen Peng
+description: A personal website and blog built with Jekyll.
+url: "https://c0dypeng.github.io"
+baseurl: ""
+lang: en
+timezone: Asia/Taipei
+
+author:
+  name: Chi-Jen Peng
+  email: c0dyp3n6@ntu.im
+  email_alt: c0dyp3n6@gmail.com
+
+github_username: c0dypeng
+linkedin_username: c0dypeng
+youtube_url: https://www.youtube.com/@thisisflojo
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - resume.tex
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - node_modules
+  - "*.aux"
+  - "*.log"
+  - "*.out"
+  - "*.fls"
+  - "*.fdb_latexmk"
+  - "*.synctex.gz"
