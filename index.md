@@ -5,46 +5,16 @@ title: About
 
 # About
 
-Hello, I'm Chi-Jen Peng. Most people call me Cody.
+I'm Chi-Jen Peng, and most people call me Cody. I'm a master's student in Information Management at National Taiwan University, where I also did my bachelor's degree. Right now my work is about making large language models controllable and safe at inference time. The project I'm building for that is:
 
-I am a master's student in Information Management at National Taiwan University.
+- **VerbalSteer**: an interpretable, data-efficient framework that steers LLMs with plain natural-language descriptions, building steering vectors without any contrastive examples. Evaluated on jailbreak, defense, and hallucination-mitigation benchmarks. It started as a Generative AI Safety course project and is now being extended into a paper.
 
-I like music, playing the guitar and singing, and building products from scratch.
+Before that, I spent three research internships across labs. At Academia Sinica's Institute of Information Science I worked with [Li Su](https://homepage.iis.sinica.edu.tw/pages/lisu/index_en.html) on music generation with diffusion models and symbolic (MIDI) representations, which grew out of Poprovise, a DeepMIR course project where we generated piano pop music with MDLM, a discrete diffusion language model. At the Research Center for Information Technology Innovation I worked with [Chiuhan Hsiao](https://homepage.citi.sinica.edu.tw/pages/chiuhanhsiao/index_zh.html) on a retrieval-augmented medical chatbot, validated together with Taichung Veterans General Hospital. At NTU's Business Intelligence Lab I worked with Prof. Chih-Ping Wei on neural models for brand endorser selection. My research interests include LLM steering and alignment, retrieval-augmented generation, and music and audio generation.
 
-My professional skills include full-stack web development, LLM and RAG systems, and cloud-native application development.
+I also like shipping real products. I co-founded [Kardomo](https://kardomo.com), Taiwan's first K-pop social platform, and served as Chief Information Officer, owning everything technical from system architecture to production deployment. We raised US$100K in seed funding through ikigai Launchpad, passed 30,000 downloads, and hit #2 in the App Store's Social category ([report](https://meet.bnext.com.tw/articles/view/52898)). Our pitch took 1st place at World Student Pitch 2025 and 2nd place at the Meet Young Spark Demo Show. On the side I freelance as a software engineer; my current project is an AI document assistant, a full-stack RAG system (React, NestJS, Supabase pgvector, Docker) with LINE and web interfaces.
 
-# Education
+At NTU I've been a teaching assistant for Programming Design (2024) and Data Analysis and Machine Learning with Python (2025).
 
-- M.S. in Information Management — National Taiwan University (2025–present)
-- B.S. in Information Management — National Taiwan University (2021–2025)
+My hobbies are music and going to concerts. My taste lives mostly in pop punk, metalcore, melodic hardcore, and djent, and lately I've been really into After The Burial, Counterparts, and Thornhill. I also play guitar and sing; you can find my stuff on [YouTube](https://www.youtube.com/@thisisflojo).
 
-# Experience
-
-Work & research
-
-- Co-Founder & Chief Information Officer — Kardomo, Inc. (Oct 2024–Jan 2026)<br>[Kardomo](https://kardomo.com) & [Encore Map](https://encoremap.com/), Taiwan's first K-pop social platform · [report](https://meet.bnext.com.tw/articles/view/52898)
-- Freelance Software Engineer — AI document assistant platform, a full-stack RAG system with LINE and web interfaces (Sep 2025–present)
-- Summer Research Intern — Academia Sinica, Institute of Information Science (Jun 2025–Aug 2025)<br>Music generation with diffusion models. Mentor: [Li Su](https://homepage.iis.sinica.edu.tw/pages/lisu/index_en.html)
-- Research Intern — Academia Sinica, Research Center for Information Technology Innovation (Jul 2024–Jun 2025)<br>Clinical AI and medical NLP. Mentor: [Chiuhan Hsiao](https://homepage.citi.sinica.edu.tw/pages/chiuhanhsiao/index_zh.html)
-- Research Intern — National Taiwan University, Business Intelligence Lab (Jul 2024–Sep 2024)<br>Machine learning for marketing analytics. Mentor: Prof. Chih-Ping Wei
-
-Teaching
-
-- Teaching Assistant — National Taiwan University
-  - Data Analysis and Machine Learning with Python (2025)
-  - Programming Design (2024)
-
-# Projects
-
-- **VerbalSteer: Steering Language Models with Natural Language Descriptions**<br>An interpretable, data-efficient LLM steering framework that builds steering vectors directly from natural language, without contrastive examples. Evaluated on jailbreak, defense, and hallucination-mitigation benchmarks.<br>*Generative AI Safety course project, 2026. Currently being extended into a paper.*
-- **YouTube Stem Pipeline**<br>Paste a YouTube link, get the song plus separated vocal and instrumental stems.<br>[code](https://github.com/c0dypeng/youtube-stem-pipeline)
-- **NTU Course Assistant Chatbot**<br>A RAG chatbot that helps NTU students choose courses by matching their questions against course topics, schedules, and other criteria.<br>*Graduation project, NTU Information Management, 2024*
-- **Poprovise: Pop Music Piano Improvisation**<br>Unconditioned piano pop music generation with MDLM, a discrete diffusion language model.<br>*DeepMIR course project, 2024*
-- **General Scholastic Ability Test with LLMs**<br>Improved LLM performance on GSAT problems through continual pre-training and instruction fine-tuning, benchmarked against well-known LLMs.<br>*Deep Learning and its Applications course project, 2024*
-- **Study Connect**<br>A full-stack app for coordinating course groups and meetings, built with Node.js, FastAPI, and SQLite.<br>*Database Management course project, 2023*
-- **CodySimpleEQ**<br>A graphic equalizer audio plugin in VST3 and Audio Unit formats, built with JUCE.<br>*Personal project, 2023*
-
-# Honors & Awards
-
-- 1st Place — World Student Pitch 2025 (Nov 2025)
-- 2nd Place — Meet Young Spark Demo Show (Nov 2025)
+If you want to reach me for any reason, email is the best way: [c0dyp3n6@ntu.im](mailto:c0dyp3n6@ntu.im). I'm also on [GitHub](https://github.com/c0dypeng) and [LinkedIn](https://www.linkedin.com/in/c0dypeng).
