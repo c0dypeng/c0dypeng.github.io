@@ -32,11 +32,13 @@ Research
 
 - Joint research project — Academia Sinica & QMUL Centre for Digital Music (Jun 2026–Sep 2026)<br>Pitch smoothing with Relative Interval Networks
 - Summer Research Intern — Academia Sinica, Institute of Information Science (Jun 2025–Aug 2025)<br>Mentor: [Dr. Li Su](https://homepage.iis.sinica.edu.tw/pages/lisu/index_en.html)
+- Research Intern — Academia Sinica, Research Center for Information Technology Innovation (Jul 2024–Jun 2025)<br>Medical chatbot on [TAIDE](https://taide.stpi.niar.org.tw/public/download-model) with retrieval over clinical knowledge bases, with Taichung Veterans General Hospital. Mentor: [Dr. Chiuhan Hsiao](https://homepage.citi.sinica.edu.tw/pages/chiuhanhsiao/index_zh.html)
 
 Industry
 
 - AI & Robotics Intern — [Learning Robots](https://learningrobots.ai), Paris (Jun 2026–Sep 2026)
-- Co-Founder & Chief Information Officer — [Kardomo, Inc.](https://kardomo.com) (Oct 2024–Feb 2026)
+- Co-Founder & Chief Information Officer — [Kardomo, Inc.](https://kardomo.com) (Oct 2024–Feb 2026)<br>Taiwan's first K-pop social platform ([Kardomo](https://kardomo.com), [Encore Map](https://encoremap.com/)). US$100K seed funding, 30,000+ downloads, #2 in Social on Taiwan's App Store ([report](https://meet.bnext.com.tw/articles/view/52898)).
+- Freelance Software Engineer (Sep 2025–May 2026)<br>Three client projects: an AI document assistant with RAG, LINE LIFF login integration, and a technical evaluation of a 2D shape-packing optimization solver.
 
 Teaching
 
@@ -58,5 +60,5 @@ Projects
 Honors & Awards
 ======
 
-- 1st Place — World Student Pitch 2025 (Nov 2025)
-- 2nd Place — Meet Young Spark Demo Show (Nov 2025)
+- 1st Place — World Student Pitch 2025 Taiwan (Nov 2025)<br>Solo pitch of Kardomo, in English, to an international panel of investors
+- 2nd Place — Meet Young Spark Demo Show (Nov 2025)<br>Solo pitch of Kardomo to venture capital judges
