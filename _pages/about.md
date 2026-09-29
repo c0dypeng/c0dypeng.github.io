@@ -11,13 +11,13 @@ Hello, I'm Chi-Jen Peng.
 
 I am a master's student in Information Management at National Taiwan University.
 
-My research interests are music information retrieval, generative models for music and audio, and steering large language models.
+My research interests are music information retrieval and generative models for music and audio.
 
 I'm into pop punk, metalcore, melodic hardcore, and djent. Lately it's been After The Burial, Counterparts, and Thornhill on repeat.
 
 I play guitar and sing. See [Music](/music/).
 
-My [CV](/files/cv.pdf).
+My [CV](/files/cv.pdf){:target="_blank" rel="noopener"}.
 
 Education
 ======
