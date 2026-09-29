@@ -36,7 +36,7 @@ Research
 Industry
 
 - AI & Robotics Intern — [Learning Robots](https://learningrobots.ai), Paris (Jun 2026–Sep 2026)
-- Co-Founder & Chief Information Officer — [Kardomo, Inc.](https://kardomo.com) (Oct 2024–Jan 2026)
+- Co-Founder & Chief Information Officer — [Kardomo, Inc.](https://kardomo.com) (Oct 2024–Feb 2026)
 
 Teaching
 
@@ -47,7 +47,7 @@ Teaching
 Manuscript Under Review
 ======
 
-- **Pitch Smoothing Using Relative Interval Networks**<br>Chin-Yun Yu, Chi-Jen Peng, Li Su and György Fazekas<br>*Submitted to ICASSP 2027*
+- **Pitch Smoothing Using Relative Interval Networks**<br>Chin-Yun Yu, Chi-Jen Peng, Li Su and György Fazekas<br>*Under review, 2026*
 
 Projects
 ======
