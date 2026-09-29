@@ -13,10 +13,10 @@ title                    : "Chi-Jen Peng"
 title_separator          : "-"
 name                     : &name "Chi-Jen Peng"
 description              : &description "Chi-Jen Peng: music information retrieval, generative models for music and audio, and language model steering." # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://c0dypeng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://chijenpeng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "c0dypeng/c0dypeng.github.io"
+repository               : "chijenpeng/chijenpeng.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "c0dypeng"
+  github           : "chijenpeng"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "c0dypeng"
+  linkedin         : "chijenpeng"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

@@ -1,4 +1,4 @@
-# c0dypeng.github.io
+# chijenpeng.github.io
 
 Personal website, built on the [Academic Pages](https://github.com/academicpages/academicpages.github.io) Jekyll template (MIT, see `LICENSE`) and hosted on GitHub Pages.
 
@@ -15,7 +15,7 @@ Personal website, built on the [Academic Pages](https://github.com/academicpages
 
 ## Deploy
 
-Push to `main`. GitHub Pages builds the site automatically; it appears at https://c0dypeng.github.io within a minute or two.
+Push to `main`. GitHub Pages builds the site automatically; it appears at https://chijenpeng.github.io within a minute or two.
 
 ## Preview locally (optional)
 
