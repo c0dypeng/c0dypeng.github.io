@@ -26,5 +26,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
+  # CV opens the PDF directly in a new tab. To update it, replace files/cv.pdf.
   - title: "CV"
-    url: /cv/
+    url: /files/cv.pdf
+    new_tab: true

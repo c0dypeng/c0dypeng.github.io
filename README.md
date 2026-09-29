@@ -6,12 +6,12 @@ Personal website, built on the [Academic Pages](https://github.com/academicpages
 
 - `_pages/about.md` — the home page. One narrative About; plain Markdown.
 - `_pages/music.md` — the Music page (YouTube uploads embed).
-- `_pages/cv.md` — the CV page.
+- `files/cv.pdf` — the CV. The nav's CV link opens it directly; `/cv/` and `/resume` redirect to it. To update, copy the new PDF over it (source lives in the separate `resume` repo).
 - `_config.yml` — site name, sidebar (photo, bio line, location, links). Academic links such as ORCID are commented out; uncomment to show them.
 - `_data/navigation.yml` — top nav. Only Music and CV are enabled; Publications, Talks, Teaching, Portfolio and Blog Posts are commented out.
 - `images/profile.jpg` — sidebar photo. Overwrite to change it.
 - `_publications/`, `_talks/`, `_teaching/`, `_portfolio/`, `_posts/` — empty collections, ready when needed.
-- `files/resume.pdf` — the public resume. Currently gitignored; `resume.tex` is always ignored so the source stays private.
+- `resume.tex` (old resume source) is gitignored and never published.
 
 ## Deploy
 

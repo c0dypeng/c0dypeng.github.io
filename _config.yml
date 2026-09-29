@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Chi-Jen Peng"
 title_separator          : "-"
 name                     : &name "Chi-Jen Peng"
-description              : &description "Chi-Jen Peng: LLM steering, music generation, and shipping products." # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Chi-Jen Peng: music information retrieval, generative models for music and audio, and language model steering." # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://c0dypeng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Chi-Jen Peng"
   pronouns         : # example: "she/her"  
-  bio              : "MS Student / Software Engineer / Musician / Concert-goer"
+  bio              : "MS Student / Audio, NLP & ML Researcher / Musician / Concert-goer"
   location         : "Taipei, Taiwan"
   employer         : "National Taiwan University"
   uri              : # URL
@@ -166,6 +166,12 @@ include:
   - _pages
   - files
 exclude:
+  - resume.tex
+  - README.md
+  - "*.aux"
+  - "*.fls"
+  - "*.fdb_latexmk"
+  - "*.synctex.gz"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
