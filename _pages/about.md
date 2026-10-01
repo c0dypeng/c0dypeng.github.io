@@ -46,7 +46,7 @@ Teaching
 Manuscript Under Review
 ======
 
-- **Pitch Smoothing Using Relative Interval Networks**<br>Chin-Yun Yu, Chi-Jen Peng, Li Su and György Fazekas<br>*Under review, 2026*
+- **[Pitch Smoothing Using Relative Interval Networks](https://arxiv.org/abs/2609.39852){:target="_blank" rel="noopener"}**<br>Chin-Yun Yu, Chi-Jen Peng, Li Su and György Fazekas<br>*arXiv:2609.39852, 2026* · [paper](https://arxiv.org/abs/2609.39852){:target="_blank" rel="noopener"}
 
 Projects
 ======
