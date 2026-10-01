@@ -36,7 +36,6 @@ Industry
 
 - AI & Robotics Intern — [Learning Robots](https://learningrobots.ai), Paris (Jun 2026 – Sep 2026)
 - Co-Founder & Chief Information Officer — [Kardomo, Inc.](https://kardomo.com) (Oct 2024 – Feb 2026)<br>Taiwan's first K-pop social platform ([Kardomo](https://kardomo.com), [Encore Map](https://encoremap.com/)). US$100K seed funding, 30,000+ downloads, #2 in Social on Taiwan's App Store ([report](https://meet.bnext.com.tw/articles/view/52898)).
-- Freelance Software Engineer (Sep 2025 – May 2026)<br>Three client projects: an AI document assistant with RAG, LINE LIFF login integration, and a technical evaluation of a 2D shape-packing optimization solver.
 
 Teaching
 
