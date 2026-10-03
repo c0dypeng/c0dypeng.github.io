@@ -31,6 +31,7 @@ author:
   employer         : "National Taiwan University"
   uri              : # URL
   email            : "codyviridian@gmail.com"
+  email_alt        : "r14725022@ntu.edu.tw" # second address shown in the sidebar as "Email (NTU)"
 
   # Academic websites
   academia         : # URL
